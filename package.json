@@ -1,0 +1,32 @@
+{
+  "name": "sync-academia",
+  "version": "1.0.0",
+  "description": "Sync-Academia is a web-based platform designed to improve coordination between teachers and students by managing attendance, announcements, and academic interactions.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sukrut-Mayee/Sync-Academia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sukrut-Mayee/Sync-Academia/issues"
+  },
+  "homepage": "https://github.com/Sukrut-Mayee/Sync-Academia#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  },
+  "dependencies": {
+    "react-router": "^6.21.3",
+    "react-router-dom": "^6.21.3"
+  }
+}
